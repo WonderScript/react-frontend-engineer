@@ -20,7 +20,7 @@ A complete guide to mastering frontend development at an advanced level for Seni
 
 - **Virtual DOM & Reconciliation:** How React updates the UI efficiently
 - **Rendering Strategies:** CSR, SSR, ISR, and SSG in Next.js
-- **Optimizing Web Vitals:** FCP, LCP, CLS, TTFB, lazy loading, and reducing render-blocking resources
+- **Optimizing Web Vitals:** FCP, LCP, CLS, TTFB, FID, lazy loading, and reducing render-blocking resources
 
 ### 🛠️ Practice:
 
