@@ -56,7 +56,7 @@ A complete guide to mastering frontend development at an advanced level for Seni
 
 - **Basic Hooks:** `useState`, `useEffect`, `useRef`, `useContext`
 - **Performance Hooks:** `useMemo`, `useCallback`, `useTransition`
-- **Advanced Hooks:** `useSyncExternalStore`, `useDeferredValue`, `useLayoutEffect`, `useId`
+- **Advanced Hooks:** `useSyncExternalStore`, `useDeferredValue`, `useLayoutEffect`, `useInsersionEffect`, `useId`
 
 ### 🛠️ Practice:
 
