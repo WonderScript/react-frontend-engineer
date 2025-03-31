@@ -31,7 +31,7 @@ A complete guide to mastering frontend development at an advanced level for Seni
 ## 3️⃣ Advanced Asynchronous JavaScript
 
 - **Promises, Async/Await, and Error Handling**
-- **Concurrency:** `Promise.all`, `Promise.race`, `AbortController`
+- **Concurrency:** `Promise.all`, `Promise.race`, `allSettled`, `AbortController`
 - **Web Workers & requestIdleCallback for background processing**
 
 ### 🛠️ Practice:
